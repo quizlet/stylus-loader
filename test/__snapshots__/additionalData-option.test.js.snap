@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`"additionalData" option should as a function: css 1`] = `
+"/* RelativePath: additional-data.styl; */
+body {
+  color: #ff7f50;
+}
+.custom-class {
+  background: #808080;
+}
+"
+`;
+
+exports[`"additionalData" option should as a function: errors 1`] = `[]`;
+
+exports[`"additionalData" option should as a function: warnings 1`] = `[]`;
+
+exports[`"additionalData" option should as an async function: css 1`] = `
+"/* RelativePath: additional-data.styl; */
+body {
+  color: #ff7f50;
+}
+.custom-class {
+  background: #808080;
+}
+"
+`;
+
+exports[`"additionalData" option should as an async function: errors 1`] = `[]`;
+
+exports[`"additionalData" option should as an async function: warnings 1`] = `[]`;
+
+exports[`"additionalData" option should work as a string: css 1`] = `
+"body {
+  color: #ff7f50;
+}
+"
+`;
+
+exports[`"additionalData" option should work as a string: errors 1`] = `[]`;
+
+exports[`"additionalData" option should work as a string: warnings 1`] = `[]`;
